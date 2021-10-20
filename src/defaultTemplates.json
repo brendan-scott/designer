@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "Empty",
+    "base": {
+      "color": "#edecf3"
+    },
+    "canvas": {
+      "crop": "rectangle",
+      "minWidth": 12.0,
+      "minHeight": 12.0,
+      "maxWidth": 144.0,
+      "maxHeight": 900.0,
+      "height": 24.0,
+      "width": 18.0,
+      "unitOfMeasure": "in"
+    },
+    "children": []
+  },
+  {
+    "id": 2,
+    "name": "Sample Template",
+    "base": {
+      "color": "#A5D4DE"
+    },
+    "canvas": {
+      "crop": "rectangle",
+      "minWidth": 12.0,
+      "minHeight": 12.0,
+      "maxWidth": 144.0,
+      "maxHeight": 900.0,
+      "height": 24.0,
+      "width": 18.0,
+      "unitOfMeasure": "in"
+    },
+    "children": [
+      {
+        "attrs": {
+          "id": "0",
+          "refId": 0,
+          "text": "COMPANY NAME",
+          "x": 263.35440582124365,
+          "y": 25.00181615134855,
+          "scaleX": 1.2543984007142044,
+          "scaleY": 1.2543984007142042,
+          "align": "center",
+          "fontSize": 24,
+          "fontFamily": "Poppins",
+          "draggable": true,
+          "fill": "black"
+        },
+        "className": "Text"
+      },
+      {
+        "attrs": {
+          "id": "1",
+          "refId": 1,
+          "text": "YOUR NAME",
+          "x": 296.34824002982159,
+          "y": 66.01271305943983,
+          "scaleX": 1.3014112076955913,
+          "scaleY": 1.3014112076955924,
+          "align": "center",
+          "fontSize": 24,
+          "fontFamily": "Poppins",
+          "draggable": true,
+          "fill": "black"
+        },
+        "className": "Text"
+      },
+      {
+        "attrs": {
+          "id": "2",
+          "x": 263.3232222706662,
+          "y": 195.33937843058579,
+          "offsetX": 33,
+          "offsetY": 40,
+          "scaleX": 0.5541264890395495,
+          "scaleY": 0.5741264890395492,
+          "type": "StockContent",
+          "refId": 4,
+          "isTemplateImage": true,
+          "draggable": true
+        },
+        "className": "Image"
+      }
+    ]
+  }
+]

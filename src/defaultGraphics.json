@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "src": "https://d2go-staging-gpawebcontent.s3.amazonaws.com/content/img/lion.standing.png",
+    "alt": "standing lion"
+  },
+  {
+    "id": 2,
+    "src": "https://d2go-staging-gpawebcontent.s3.amazonaws.com/content/img/sitting.lion.png",
+    "alt": "sitting lion"
+  },
+  {
+    "id": 3,
+    "src": "https://d2go-staging-gpawebcontent.s3.amazonaws.com/content/img/standing.lion.png",
+    "alt": "standing lion"
+  },
+  {
+    "id": 4,
+    "src": "https://rendering.mcp.cimpress.com/v1/vp/preview?instructions=QSH_NgVgaINgABQ9PAAGBxVqURTpAWiTXvJGBJl9aHR0cHM6Ly91cGxvYWRzLmRvY3VtZW50cy5jaW1wcmVzcy5pby92MS91cGxvYWRzLzYyZDMyMDJjLTU0NDgtNDY0Yi05OWU3LTk3YjYzZTUwMzJlMX4xMTAvb3JpZ2luYWwvP3RlbmFudD12YnUtY2wmdnBpZD0xOTEyMDQUT2aRL1PGWnYcJI8gsbGyubmWobe3Ojk3thagtjY3u5anuTSztLcdEBVIusFqkytzIyuTKyFqE8lqahqB0QOjk6ssm6CxsbK5uZaht7c6OTe2FqK8ODe5spakMrCyMrk5nRAsFqm6OrI0t6g5Mrs0sruWprK6MKIwujDOesFqm6OrI0t6g5Mrs0sruWprK6MKIwujCdED2RMLG6OrC2ER03OrY2FhE4OTK7NLK7oTe8ER09kTYyszoRHRgXGBYROje4ER0YFxgWETu0sjo0ER0YmRmclxuZmxqaGhYRNDK0s7Q6ER0cGhsXGpsZHBk%24lhE5tzC4ITe8ER03OrY2FhExMLmytjS3MrmRHTc6tjYWETO6tLIyqDe0tzo5kR03OrY2FhE5N7ukMrSztDo5kR03OrY2FhE7t7kyILk6Ize3Oim0vTKRHRgXGD6A--&width=500&height=500&format=png&category=studio",
+    "alt": "template_couple"
+  }
+]
